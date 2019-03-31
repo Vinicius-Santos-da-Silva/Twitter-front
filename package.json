@@ -22,5 +22,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinicius-Santos-da-Silva/Twitter-front.git"
+  },
+  "author": "Vinicius Santos da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinicius-Santos-da-Silva/Twitter-front/issues"
+  },
+  "homepage": "https://github.com/Vinicius-Santos-da-Silva/Twitter-front#readme"
 }
